@@ -1,6 +1,6 @@
 # Python CLI Task Manager
 
-> Project 01/100 — Building a strong GitHub portfolio from scratch.
+> Project 01 — Building a strong GitHub portfolio from scratch.
 
 A lightweight command-line task manager built with Python. Supports adding, listing, completing, and deleting tasks with priority levels. Tasks persist across sessions using a local JSON file.
 
@@ -62,10 +62,5 @@ python src/task_manager.py delete 2
 - How to persist data using JSON file I/O
 - How to structure a Python project with src/ layout
 - How to use colorama for coloured terminal output
-
-## Part of 100 Projects Challenge
-
-This is project 01 of my 100-project challenge to build a strong GitHub portfolio
-and secure AI/ML and software engineering internships.
 
 Follow my progress: [GitHub Profile](https://github.com/iamxkhushi1726-svg)
